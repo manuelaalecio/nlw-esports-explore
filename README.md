@@ -1,7 +1,7 @@
 
 <h1 align="center">NLW E-Sport</h1>
 
-<p>Project to connect with the gaming community.</p>
+<p align="center">Project to connect with the gaming community.</p>
 <br>
 <img src="https://raw.githubusercontent.com/ManuelaAlecio/nlw/master/assets/banner.png">
 
