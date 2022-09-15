@@ -1,12 +1,20 @@
 
 <h1 align="center">NLW E-Sport</h1>
 
-<p>Project to connect with the gaming community. In it they show my favorite games, with my favorite streamers and social networks.</p>
+<p>Project to connect with the gaming community.</p>
 <br>
 <img src="https://raw.githubusercontent.com/ManuelaAlecio/nlw/master/assets/banner.png">
 
-<h2>teste de som</h2>
+<h2>Peoject</h2>
+<p>This is my first project and basically it is a layout of my favorite games, streamers and some social networks.<br>
+The project is basically developed in HTML5 and CSS3. Where onclick is possible to access the game page on twitch, the same goes for pressing on streamers and social media.</p>
 
+<br>
+
+<h2></h2>
+<ul>
+<li>teste<li>
+</ul>
 <p>For more follow me on social media:</p>
 <p>
  <a href="https://github.com/ManuelaAlecio"><img alt="GitHub Follow" src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d"</img></a>
