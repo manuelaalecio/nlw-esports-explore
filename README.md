@@ -1,13 +1,12 @@
 
 <h1 align="center">NLW E-Sport</h1>
 
-<footer align="center">Project to connect with the gaming community.</footer>
+<p align="center">Project to connect with the gaming community.</p>
 <br>
 <img src="https://raw.githubusercontent.com/ManuelaAlecio/nlw/master/assets/banner.png">
 
 <h2>Project</h2>
-<p>This is my first project and basically it is a layout of my favorite games, streamers and some social networks.<br>
-The project is basically developed in HTML5 and CSS3. Where onclick is possible to access the game page on twitch, the same goes for pressing on streamers and social media.</p>
+<p>This is my first project and basically it is a layout of my favorite games, streamers and some social networks.The project is basically developed in HTML5 and CSS3. Where onclick is possible to access the game page on twitch, the same goes for pressing on streamers and social media.</p>
 
 <br>
 
@@ -30,5 +29,3 @@ The project is basically developed in HTML5 and CSS3. Where onclick is possible 
 <a href="https://www.twitch.tv/mallessio"><img alt="Twitch Follow" src="https://camo.githubusercontent.com/dcf2628f2eefecb5cd4a450ff1297ed75ca8707ce19a2fd8d6dae14f13034564/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d54776974636826636f6c6f723d393134364646266c6f676f3d547769746368266c6f676f436f6c6f723d464646464646266c6162656c3d"></a>
 <a href="https://twitter.com/MCuareli"><img alt="Follow Twitter" src="https://camo.githubusercontent.com/0bd066115a3d5d3b06c206ac73e483bc237e6ff7c61f9ba3262e683581de9718/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5477697474657226636f6c6f723d314441314632266c6f676f3d54776974746572266c6f676f436f6c6f723d464646464646266c6162656c3d"></a>
 </p>
-
-
