@@ -88,7 +88,7 @@ section ul li:hover {
     padding-top: 4px;
     border-radius: 10px;
 
-    animation: fromBottom .7s 0s;
+    animation: fromBottom .7s 0s backwards;
 }
 
 .games-card {
@@ -109,7 +109,7 @@ section ul li:hover {
     padding-top: 4px;
     border-radius: 10px;
 
-    animation: fromBottom .7s .4s;
+    animation: fromBottom .7s .4s backwards;
 }
 
 .streamer-card {
@@ -131,7 +131,7 @@ section ul li:hover {
     padding-top: 4px;
     border-radius: 10px;
 
-    animation: fromBottom .7s .8s;
+    animation: fromBottom .7s .8s backwards;
 }
 
 .midia-card {
@@ -155,7 +155,7 @@ section ul li:hover {
 @keyframes fromBottom {
     from {
         opacity: 0;
-        transform: translateY(15px);
+        transform: translateY(300px);
     }
 
     to {
