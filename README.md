@@ -24,3 +24,7 @@ This is my first project and basically it is a layout of my favorite games, stre
 ## 📫 Contact
 
 manuelaalecio.dev@gmail.com
+
+## 📄 License
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
